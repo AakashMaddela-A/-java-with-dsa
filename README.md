@@ -4,9 +4,13 @@ This repository contains my Java practice files and folders while learning **Dat
 I am pushing all my files (arrays, loops, conditionals, etc.) here as I learn and practice.
 
 ## 📂 Structure
-- `arrays/` → Programs related to arrays  
-- `loops/` → Programs using loops  
-- `conditionals/` → Programs using if-else, switch, etc.  
+- `basics/` -> Basic Concepts
+- `conditionals/` -> Programs using if-else, switch, etc.
+- `loops/` -> Programs using loops  
+- `arrays/` -> Programs related to arrays
+- `strings/` ->Programs related to strings 
+  
+
 - More folders will be added as I progress 🚀
 
 ## 🎯 Goal
